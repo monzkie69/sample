@@ -1,0 +1,4 @@
+BIR forms to file for (MWE- Minimum Wage Earners) non-taxable:
+
+1701A	✅ Yes	Annual ITR required even if no tax due
+1701Q	✅ Yes	File quarterly if earning from contract of service.
